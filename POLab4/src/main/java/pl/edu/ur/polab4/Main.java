@@ -1,5 +1,10 @@
 package pl.edu.ur.polab4;
 
+import java.util.Scanner;
+import pl.edu.ur.polab4.obliczanieFigur.*;
+import pl.edu.ur.polab4.studenci.Smenu;
+
+
 public class Main {
 
     /**
